@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "width": 320,
+      "overflow": false,
+      "menu": "open, Escape and anchor passed"
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "menu": "open, Escape and anchor passed"
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "menu": "open, Escape and anchor passed"
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "menu": "open, Escape and anchor passed"
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "menu": "desktop navigation"
+    }
+  ],
+  "audit": {
+    "brokenAnchors": [],
+    "failedImages": [],
+    "unsafeLinks": [],
+    "headingCount": 1
+  },
+  "errors": [],
+  "filters": "passed",
+  "reducedMotion": "passed: no video source loaded",
+  "keyboardSkipLink": "passed",
+  "video": "muted playback under five seconds, no pause button, end without loop passed",
+  "portraits": 4,
+  "whatsapp": "visible in viewport at five widths",
+  "reveals": "passed"
+}
