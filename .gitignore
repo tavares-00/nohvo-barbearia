@@ -1,0 +1,18 @@
+# Capturas e resultados de execução locais
+docs/preview-*.png
+docs/*-preview.png
+docs/hero-video-*.png
+docs/gallery-full-facade.png
+docs/cortes-*.png
+docs/video-frame.png
+docs/test-results.json
+
+# Dependências, arquivos temporários e configuração privada
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+.upload-staging/
